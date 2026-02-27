@@ -2,12 +2,12 @@
 Avaliação de naturalidade e sentimento em LLMs (Workshop RELIA)
 
 ## Descrição
-Inspirado no workshop **"Do Texto ao Jogo - Ler com IA"** das Jornadas RELIA, este projeto avalia a naturalidade e o tom emocional das respostas geradas por modelos de linguagem (LLMs) em contextos de gamificação e educação.
+Inspirado na aplicação de Inteligência Artificial em contextos educativos e de leitura interativa, este projeto avalia a naturalidade e o tom emocional das respostas geradas por modelos de linguagem (LLMs). O foco incide sobre a adequação do "sentimento" da IA em interações gamificadas.
 
 ## 🛠️ Tecnologias e Metodologia
-* **NLP Baseado em Regras**: Criação de léxicos personalizados para análise de sentimento em Português.
-* [cite_start]**Gamificação**: Avaliação da adequação da linguagem para experiências interativas de leitura[cite: 78].
-* **Python**: Scripts automatizados para processamento de interações entre utilizador e agente.
+* **NLP Baseado em Regras**: Utilização de léxicos especializados para análise de sentimento e tom em Português.
+* **Gamificação e UX**: Avaliação da fluidez linguística em sistemas de diálogo para experiências digitais.
+* **Python**: Scripts automatizados para o processamento de grandes volumes de interações entre utilizador e agentes de IA.
 
-## 🎯 Objetivo
-Contribuir para o desenvolvimento de **Interfaces Web** e agentes de IA mais empáticos e linguisticamente precisos em contextos culturais.
+## 🎯 Objetivo Técnico
+Contribuir para o desenvolvimento de interfaces e agentes de IA mais empáticos, linguisticamente precisos e culturalmente adaptados.
